@@ -1,5 +1,7 @@
 '''
 Drop trajectory simulator
+Redbox is with atmosphere
+Greenbox is in vaccum
 '''
 
 import pygame, sys
